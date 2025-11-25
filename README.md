@@ -55,13 +55,10 @@ Personal_Firewall_GUI_Report.pdf  # Documentation (optional)
 Run the following commands on Linux:
 
 sudo apt update
+
 pip3 install scapy
+
 sudo apt install python3-tk
-
-### 2. Clone the repository
-
-git clone https://github.com/yourusername/python-firewall-gui.git
-cd python-firewall-gui
 
 ### 3. Run the program (requires root)
 
