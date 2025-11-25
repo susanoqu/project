@@ -48,8 +48,6 @@ rules.json                      # Auto-created rule set
 
 firewall.log                    # Log file
 
-Personal_Firewall_GUI_Report.pdf  # Documentation (optional)
-
 ------------------------------------------------------------
 
 ## Installation
@@ -63,7 +61,7 @@ pip3 install scapy
 
 sudo apt install python3-tk
 
-### 3. Run the program (requires root)
+### 2. Run the program (requires root)
 
 sudo python3 personal_firewall_gui.py
 
