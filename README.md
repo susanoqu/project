@@ -43,8 +43,11 @@ This project is suitable for beginners learning cybersecurity, networking, or Py
 ## Project Structure
 
 personal_firewall_gui.py        # Main firewall + GUI (single-file)
+
 rules.json                      # Auto-created rule set
+
 firewall.log                    # Log file
+
 Personal_Firewall_GUI_Report.pdf  # Documentation (optional)
 
 ------------------------------------------------------------
